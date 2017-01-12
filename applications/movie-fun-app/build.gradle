@@ -29,6 +29,7 @@ dependencies {
     compile "io.pivotal.spring.cloud:spring-cloud-sso-connector:$springCloudSsoVersion"
     compile "io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry"
     compile "io.pivotal.spring.cloud:spring-cloud-services-starter-config-client"
+    compile "io.pivotal.spring.cloud:spring-cloud-services-starter-circuit-breaker"
 
 
     compile "com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.7.0"

@@ -30,5 +30,6 @@ applications:
   - movie-fun-sso
   - movie-fun-registry
   - movie-fun-config-server
+  - movie-fun-circuit-breaker
   env:
     GRANT_TYPE: authorization_code
