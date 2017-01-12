@@ -29,5 +29,6 @@ applications:
   - photo-storage
   - movie-fun-sso
   - movie-fun-registry
+  - movie-fun-config-server
   env:
     GRANT_TYPE: authorization_code
